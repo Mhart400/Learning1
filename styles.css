@@ -1,0 +1,41 @@
+body {
+    font-family: helvetica;
+    margin: 8px;
+}
+
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+    color: khaki;
+    background: url("./Images/pattern.jpeg");
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 75px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+
+
+.bluebold {
+    color: blue;
+    font-weight: bold;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+    color: whitesmoke;
+}
+
+.frames {
+    background-color: salmon;
+    color: whitesmoke;
+}
+
+.paint {
+    background-color: skyblue;
+    color: whitesmoke;
+}
